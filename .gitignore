@@ -2,3 +2,4 @@ main.py
 .ipynb_checkpoints
 chromedriver.exe
 secretKeys.py
+__pycache__
